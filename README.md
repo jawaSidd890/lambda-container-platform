@@ -109,29 +109,3 @@ After deployment, Terraform outputs:
 * Production-grade cloud architecture
 
 ---
-
-## 👤 Author
-
-**Jawahar (AWS DevOps Engineer)**
-Built to demonstrate real-world DevOps & Cloud Engineering skills.
-
-```
-
----
-
-# 🎯 Why this README is powerful
-
-When recruiters see this:
-- Architecture diagram ✔
-- Terraform ✔
-- CI/CD ✔
-- Security ✔
-- Monitoring ✔
-
-
-
----
-
-
-
-
