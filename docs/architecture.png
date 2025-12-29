@@ -1,0 +1,19 @@
+# Monitoring and Logging
+
+This platform uses AWS CloudWatch for observability.
+
+## Logging
+- Lambda execution logs are stored in CloudWatch Logs
+- API Gateway access logs record all incoming requests
+
+## Metrics
+- Number of invocations
+- Execution duration
+- Error rate
+- Throttling events
+
+## Troubleshooting
+If the API fails:
+1. Check API Gateway logs
+2. Check Lambda logs in CloudWatch
+3. Verify Docker image exists in ECR
